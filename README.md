@@ -26,14 +26,23 @@ pip install -r requirements.txt
 jupyter notebook Olympic_Data_Analysis.ipynb
 
 ---
+7. Results & Insights
+USA has dominated overall medal counts historically.
 
-## **7. Results & Insights**
-```markdown
-## Results & Insights
-- USA has dominated overall medal counts historically.
-- Women's participation has steadily increased since the mid-20th century.
-- Certain countries excel in specific sports due to cultural and infrastructural factors.
+Women's participation has steadily increased since the mid-20th century.
+
+Certain countries excel in specific sports due to cultural and infrastructural factors.
+
+8. Future Improvements
+Add interactive dashboards using Plotly or Power BI
+
+Extend analysis to include 2020 and 2024 Olympics
+
+Build a predictive model for medal counts
 
 
+## Sample Visualizations
+![Medal Distribution by Country](DS1.png)
+![Gender Participation Trend](DS2.png)
 
 
